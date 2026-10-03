@@ -1,0 +1,12 @@
+# LangChain
+langchain
+langchain-core
+
+# Environment variables
+python-dotenv
+
+#streamlit 
+streamlit
+
+#Groq 
+langchain-groq
